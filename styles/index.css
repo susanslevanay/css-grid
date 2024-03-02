@@ -35,5 +35,39 @@
         grid-column: 4 / 6;
     }
     .fifth {
-        
+        background-color: black;
+        grid-row: 5 / 7;
+        grid-column: 4 / 6;
     }
+    .sixth {
+        background-color: black;
+        grid-row: 4 / 7;
+        grid-column: 1 / 2;
+  }
+  .seventh {
+    background-color: black;
+    grid-row: 7 / 11;
+    grid-column: 1 / 2;
+
+  }
+  .eight {
+    background-color: black;
+    grid-row: 7 / 9;
+    grid-column: 2 / 3;
+  }
+  .ninth {
+    background-color: black;
+    grid-row: 9 / 11;
+    grid-column: 2 / 3;
+  }
+  .tenth {
+    background-color: black;
+    grid-row: 7 / 11;
+    grid-column: 3 / 5;
+  }
+  .eleventh {
+    background-color: black;
+    grid-row: 7 / 11;
+    grid-column: 5 / 6;
+  }
+
